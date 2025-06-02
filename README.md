@@ -1,12 +1,68 @@
-# React + Vite
+# Portafolio de Amaru Ríos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portafolio personal, desarrollado con [React](https://react.dev/) y [Vite](https://vitejs.dev/), donde muestro mis proyectos, experiencia profesional y habilidades técnicas.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Keen Slider](https://keen-slider.io/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
-## Expanding the ESLint configuration
+## 📦 Instalación
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clona el repositorio:
+   ```sh
+   git clone https://github.com/Am4rv/my-portafolio.git
+   cd my-portafolio
+   ```
+
+2. Instala las dependencias:
+   ```sh
+   npm install
+   ```
+
+## 🛠️ Scripts disponibles
+
+- `npm run dev` — Inicia el servidor de desarrollo.
+- `npm run build` — Genera la versión de producción.
+- `npm run preview` — Previsualiza la build de producción.
+- `npm run lint` — Ejecuta ESLint para analizar el código.
+
+## 📁 Estructura del proyecto
+
+```
+my-portafolio/
+├── public/
+│   ├── icons/
+│   ├── images/
+│   └── docs/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+└── ...
+```
+
+## ✨ Funcionalidades
+
+- Secciones: Sobre mí, Experiencia, Proyectos, Habilidades, Contacto.
+- Responsive y animaciones suaves.
+- Descarga de CV.
+- Navegación con scroll suave.
+- Integración de iconos y logos de tecnologías.
+
+## 📄 Licencia
+
+Este proyecto es de uso personal. Si deseas reutilizar el código, por favor da el crédito correspondiente.
+
+---
+
+Desarrollado por **Amaru Ríos**.
