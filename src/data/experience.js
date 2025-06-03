@@ -19,16 +19,5 @@ export const experiences = [
       { Icon: FaGitAlt, name: "Git" },
     ],
   },
-  {
-    company: "Proyecto TT-Geoespacial",
-    role: "Desarrollador Full Stack",
-    period: "2024",
-    description:
-      "Desarrollé una app de visualización y análisis de datos geoespaciales usando Python, Streamlit y QGIS.",
-    icons: [
-      { Icon: SiPython, name: "Python" },
-      { Icon: SiQgis, name: "QGIS" },
-      { Icon: FaGitAlt, name: "Git" },
-    ],
-  },
+  
 ];
