@@ -23,7 +23,7 @@ export default function About() {
             Me considero una persona proactiva, con iniciativa, y siempre abierta a aprender. Disfruto colaborar en equipo, aportar ideas y trabajar con foco en la experiencia del usuario.
           </p>
           <a
-            href="docs/Amaru-cv.pdf"
+            href="docs/cv-amarurios.pdf"
             download
             className=" inline-block mt-4 bg-indigo-600 text-white py-2 px-5 rounded-md hover:bg-indigo-700 transition-colors"
           >
